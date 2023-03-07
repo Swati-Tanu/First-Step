@@ -1,2 +1,2 @@
-# The-First-Step
+# First-Step
 
